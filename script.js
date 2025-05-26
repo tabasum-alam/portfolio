@@ -422,7 +422,7 @@ function initThemeToggle() {
 }
 
 // Initialize theme toggle
-initThemeToggle();
+// initThemeToggle();
 
 // Performance optimization: Lazy loading for images
 function initLazyLoading() {
